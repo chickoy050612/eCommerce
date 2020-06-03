@@ -1,0 +1,58 @@
+﻿body {
+    background-image: url(../Image/website-background.jpg);
+}
+
+.LabelTotal {
+    position: absolute;
+    border: solid 1px #002594;
+    background-color: white;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15pt;
+    color: #002594;
+    width: 120px;
+    height: 40px;
+    text-align: right;
+}
+
+.TextBoxes {
+    position: absolute;
+    border: solid 1px #002594;
+    height: 20px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 11pt;
+    color: #002594;
+    text-align: left;
+}
+
+.Buttons {
+    position: absolute;
+    height: 40px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 12pt;
+    width: 120px;
+}
+
+.CellStyle {
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 11pt;
+    color: #002594;
+    text-align: left;
+}
+
+.Checkboxes {
+    position: absolute;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 11pt;
+    color: #002594;
+    background-color: #77dd77;
+    top: 155px;
+    left: 10px;
+    height: 22px;
+}
+
+.Radios {
+    position: absolute;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 11pt;
+    color: #002594;
+}

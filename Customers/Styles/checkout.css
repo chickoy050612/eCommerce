@@ -1,0 +1,20 @@
+﻿body {
+    background-image: url(../Image/website-background.jpg);
+}
+
+.CheckoutFrame {
+    position: absolute;
+    height: 310px;
+    width: 730px;
+    border: solid 1px #002594;
+}
+
+.Buttons {
+    position: absolute;
+    height: 25px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 10pt;
+    background-color: lavender;
+    color: #002594;
+    border: solid 1px #002594;
+}

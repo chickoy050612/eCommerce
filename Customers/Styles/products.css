@@ -1,0 +1,64 @@
+﻿body {
+    background-image: url(../Image/website-background.jpg);
+}
+
+.MainPanel {
+    position: absolute;
+    text-align: center;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    height: 280px;
+    border: solid 1px #002594;
+    background-color: #D5FFD5;
+}
+
+.Labels {
+    position: absolute;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.MessageLabels {
+    position: absolute;
+    font-family: 'Lexend Deca', sans-serif;
+    background-color: #D5FFD5;
+    border: solid 1px gray;
+    font-size: 10pt;
+}
+
+.Textboxes {
+    position: absolute;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.Buttons {
+    position: absolute;
+    height: 40px;
+    font-family: 'Lexend Deca', sans-serif;
+    background-color: paleturquoise;
+    border: solid 1px gray;
+    font-size: 12pt;
+    width: 130px;
+}
+
+.Images {
+    position: absolute;
+    border: solid 1px #002594;
+}
+
+.ListBoxes {
+    position: absolute;
+    border: solid 1px #002594;
+    background-color: ButtonFace;
+}
+
+.Messages {
+    position: absolute;
+    border: solid 1px black;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 11pt;
+    color: red;
+    text-align: left;
+    padding: 3px 3px 3px 3px;
+}
+

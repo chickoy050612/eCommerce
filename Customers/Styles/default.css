@@ -1,0 +1,35 @@
+﻿body {
+    background-image: url(../Image/website-background.jpg);
+}
+
+.MainPanel {
+    position: absolute;
+    text-align: center;
+    width: 98.5%;
+    top: 10px;
+    left: 10px;
+    height: 374px;
+}
+
+.MainFrame {
+    position: absolute;
+    top: 120px;
+    left: 10px;
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    max-width: 99%;
+    max-height: 85%;
+    margin: 0;
+    padding: 0;
+    border: solid 3px #002594;
+    box-sizing: border-box;
+}
+
+.Buttons {
+    position: absolute;
+    height: 40px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 12pt;
+    width: 150px;
+}
